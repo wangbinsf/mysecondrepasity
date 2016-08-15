@@ -24,6 +24,4 @@
     [self.view addSubview:sc];
 }
 
-//一值在测试
-
 @end
